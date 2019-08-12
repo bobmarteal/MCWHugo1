@@ -38,7 +38,7 @@ Write an awesome description for your new site here. You can edit this
 line in config.yml. It will appear in your document head meta (for
 Google search results) and in your RSS feed description.
 '''
-author = "Your name"
+author = "Bob Marteal"
 cover = "/img/frame-1.jpg"
 
 # Site Menus
@@ -48,7 +48,7 @@ cover = "/img/frame-1.jpg"
   name = "Home"
   weight = 1
   identifier = "home"
-  url = "/"
+  url = "/content/_index.md"
 
 # Related Content
 # ---------------
