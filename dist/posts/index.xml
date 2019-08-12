@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Marteal Cycle Works</title>
+    <link>http://localhost:3000/posts/</link>
+    <description>Recent content in Posts on Marteal Cycle Works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Aug 2019 22:54:34 -0400</lastBuildDate>
+    
+	<atom:link href="http://localhost:3000/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My-First-Post</title>
+      <link>http://localhost:3000/posts/my-first-post/</link>
+      <pubDate>Sat, 10 Aug 2019 22:54:34 -0400</pubDate>
+      
+      <guid>http://localhost:3000/posts/my-first-post/</guid>
+      <description>yohohoho Hi, I am the Hugo Boilerplate. I hope you are enjoying this guide!</description>
+    </item>
+    
+    <item>
+      <title>Welcome to Hugo!</title>
+      <link>http://localhost:3000/posts/example/</link>
+      <pubDate>Mon, 01 Jan 2018 12:42:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/posts/example/</guid>
+      <description>You’ll find this post in your content/posts directory.
+To add new posts, simply add a file in the content/posts directory that follows the convention name-of-post.ext and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Hugo also offers powerful support for code snippets:
+package main import &amp;#34;fmt&amp;#34; func print_hi(name string) { fmt.Println(&amp;#34;Hi, &amp;#34;, name) } func main() { print_hi(&amp;#34;Tom&amp;#34;) } //=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.</description>
+    </item>
+    
+  </channel>
+</rss>
