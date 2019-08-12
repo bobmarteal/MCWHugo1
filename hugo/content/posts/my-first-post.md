@@ -1,6 +1,10 @@
 ---
 title: My-First-Post
-date: 2019-08-10T22:54:34-04:00
+date: 2019-08-11T02:54:34.000+00:00
+menu:
+  main:
+    name: postypost
+    weight: 2
 
 ---
 ## yohohoho this is the posty post
