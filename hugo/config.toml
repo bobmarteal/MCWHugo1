@@ -10,46 +10,6 @@ relativeURLs = false
 theme = "hugo-theme-casper"
 title = "Marteal Cycle Works"
 [params]
-description = '''
-Write an awesome description for your new site here. You can edit this
-line in config.yml. It will appear in your document head meta (for
-Google search results) and in your RSS feed description.
-'''
 author = "Bob Marteal"
 cover = "/img/frame-1.jpg"
-
-# Site Menus
-# See the Hugo docs for usage in layouts
-# https://gohugo.io/content-management/menus/
-[[menu.main]]
-  name = "Home"
-  weight = 1
-  identifier = "home"
-  url = "/content/_index.md"
-
-# Related Content
-# ---------------
-# Enable the options below to use Hugo's related
-# pages feature for related posts, etc.
-# https://gohugo.io/content-management/related/
-# [related]
-#   includeNewer = true
-#   threshold = 10
-#   toLower = true
-#[[related.indices]]
-#   name = "Section"
-#   weight = 200
-#[[related.indices]]
-#   name = "keywords"
-#   weight = 150
-#[[related.indices]]
-#   name = "categories"
-#   weight = 150
-#[[related.indices]]
-#   name = "tags"
-#   weight = 100
-#[[related.indices]]
-#   name = "date"
-#   pattern = "2006"
-#   weight = 10
-
+description = "Write an awesome description for your new site here. You can edit this\nline in config.yml. It will appear in your document head meta (for\nGoogle search results) and in your RSS feed description.\n"
