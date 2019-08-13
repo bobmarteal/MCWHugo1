@@ -1,4 +1,4 @@
-baseurl = "/"
+baseURL = "/"
 defaultContentLanguage = "en"
 destination = "../dist/"
 disableKinds = ["taxonomy", "taxonomyTerm"]
