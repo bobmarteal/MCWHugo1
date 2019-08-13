@@ -52,5 +52,14 @@ Hugo also offers powerful support for code snippets:
 package main import &amp;#34;fmt&amp;#34; func print_hi(name string) { fmt.Println(&amp;#34;Hi, &amp;#34;, name) } func main() { print_hi(&amp;#34;Tom&amp;#34;) } //=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.</description>
     </item>
     
+    <item>
+      <title>Check one-two</title>
+      <link>http://localhost:3000/posts/check-one-two/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/posts/check-one-two/</guid>
+      <description>this is getting a little silly don&amp;rsquo;t you think?</description>
+    </item>
+    
   </channel>
 </rss>
