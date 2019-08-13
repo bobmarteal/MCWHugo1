@@ -6,15 +6,25 @@
     <description>Recent content in Homepage on Marteal Cycle Works</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Aug 2019 22:54:34 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2019 04:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://localhost:3000/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Fresh post in Forestry</title>
+      <link>http://localhost:3000/posts/fresh-post-in-forestry/</link>
+      <pubDate>Mon, 12 Aug 2019 04:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/posts/fresh-post-in-forestry/</guid>
+      <description>Does this work? Marteal Cycleworks is founded on the belief that everyone deserves to experience joy, adventure, and wonder on a bike, and that every cyclist, whether an avid racer, an occasional tourer, or a total beginner deserves to be valued and respected as a person, a cyclist and a customer.
+MCW was founded by Bob Marteal after years of avid cycling and shopping the available market looking for good customer service and a bicycle that felt right, but always winding up like so many others; frustrated and feeling there was no place for him in the market.</description>
+    </item>
+    
+    <item>
       <title>My-First-Post</title>
       <link>http://localhost:3000/posts/my-first-post/</link>
-      <pubDate>Sat, 10 Aug 2019 22:54:34 -0400</pubDate>
+      <pubDate>Sun, 11 Aug 2019 02:54:34 +0000</pubDate>
       
       <guid>http://localhost:3000/posts/my-first-post/</guid>
       <description> yohohoho this is the posty post Hi, I am the Hugo Boilerplate. I hope you are enjoying this guide!

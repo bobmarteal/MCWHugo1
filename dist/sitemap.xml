@@ -3,8 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:3000/posts/fresh-post-in-forestry/</loc>
+    <lastmod>2019-08-12T04:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:3000/posts/my-first-post/</loc>
-    <lastmod>2019-08-10T22:54:34-04:00</lastmod>
+    <lastmod>2019-08-11T02:54:34+00:00</lastmod>
   </url>
   
   <url>
@@ -14,12 +19,12 @@
   
   <url>
     <loc>http://localhost:3000/</loc>
-    <lastmod>2019-08-10T22:54:34-04:00</lastmod>
+    <lastmod>2019-08-12T04:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:3000/posts/</loc>
-    <lastmod>2019-08-10T22:54:34-04:00</lastmod>
+    <lastmod>2019-08-12T04:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
