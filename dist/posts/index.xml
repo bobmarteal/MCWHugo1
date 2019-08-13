@@ -12,7 +12,16 @@
     
     
     <item>
-      <title>Fresh post in Forestry</title>
+      <title>Still Trying to get this?</title>
+      <link>http://localhost:3000/posts/still-trying-to-get-this/</link>
+      <pubDate>Mon, 12 Aug 2019 04:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/posts/still-trying-to-get-this/</guid>
+      <description>How does this work? The Transformative Humanities project asks Cornell faculty to talk about their own life-changing encounters with great works in the arts and humanities and how these works have transformed their scholarship and their lives. Here are their contributions.</description>
+    </item>
+    
+    <item>
+      <title>updating my Fresh post in Forestry</title>
       <link>http://localhost:3000/posts/fresh-post-in-forestry/</link>
       <pubDate>Mon, 12 Aug 2019 04:00:00 +0000</pubDate>
       

@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:3000/posts/still-trying-to-get-this/</loc>
+    <lastmod>2019-08-12T04:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:3000/posts/fresh-post-in-forestry/</loc>
     <lastmod>2019-08-12T04:00:00+00:00</lastmod>
   </url>
