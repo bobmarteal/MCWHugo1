@@ -9,4 +9,5 @@ fields:
   name: date
   label: date
 pages:
+- hugo/content/posts/still-trying-to-get-this.html
 - hugo/content/posts/fresh-post-in-forestry.html
