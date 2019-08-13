@@ -7,11 +7,11 @@ menu:
     weight: 2
 
 ---
-## yohohoho this is the posty post
+## blah blah this is the posty post
 
 Hi, I am the _Hugo Boilerplate_. I hope you are enjoying this guide!
 
-* how 
+* how
 * does
 * this
 * work
